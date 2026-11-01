@@ -14,3 +14,7 @@
 ## 远程仓库
 
 - GitHub: https://github.com/Bigzhaojun/hello-ai
+
+## 更新记录
+
+- 2026-10-31：完成首次推送，GitHub 链路打通。
